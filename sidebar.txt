@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[urk:home|Door43 (urk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-urk|d43-urk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-urk/archive/master.zip|d43-urk.zip]]
+
+**Recent Changes**
+{{changes>ns = urk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/urk|Ethnologue data]]
+
